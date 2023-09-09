@@ -10,8 +10,7 @@ This is a simple web application built using React and styled with Tailwind CSS.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Currency-Converter](https://github.com/Nikhil-Mhatre/Currency-Converter/blob/master/CurrencyConverter.PNG)
 
 ## Getting Started
 
